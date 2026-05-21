@@ -5,10 +5,7 @@ This Privacy Policy explains how Booth Math handles information when you use the
 
 Before publishing this policy, replace the placeholders in brackets with the correct developer name, contact email, and public policy URL.
 
-Developer
-Booth Math is provided by [Developer or Company Name].
-
-Contact: [support email address]
+Contact: antogs99@gmail.com
 
 Summary
 Booth Math is designed as a local-first planning calculator.
@@ -66,7 +63,7 @@ Information stored locally in Booth Math remains on your device until you delete
 
 You can delete local app data by deleting saved shows or by deleting Booth Math from your device. Deleting the app may remove locally stored app data from that device.
 
-Analytics data is handled by Firebase / Google Analytics according to their retention controls and policies. If you contact [Developer or Company Name] at [support email address], you may request help with privacy questions. Because Booth Math does not require an account, some analytics data may not be directly identifiable to you by the developer.
+Analytics data is handled by Firebase / Google Analytics according to their retention controls and policies. If you contact antogs99@gmail.com, you may request help with privacy questions. Because Booth Math does not require an account, some analytics data may not be directly identifiable to you by the developer.
 
 Children
 Booth Math is not directed to children under 13. Do not use Booth Math if you are under 13.
@@ -83,7 +80,7 @@ Security
 Booth Math relies on iOS device security and app sandboxing for locally stored app data. No method of storage or transmission can be guaranteed to be completely secure.
 
 Changes to This Policy
-This Privacy Policy may be updated from time to time. The updated version will be posted at [public Privacy Policy URL].
+This Privacy Policy may be updated from time to time. 
 
 Contact
 If you have questions about this Privacy Policy, contact:
