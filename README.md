@@ -1,1 +1,91 @@
-# booth_math_privacy_terms
+Booth Math Privacy Policy
+Last updated: May 20, 2026
+
+This Privacy Policy explains how Booth Math handles information when you use the Booth Math iOS app.
+
+Before publishing this policy, replace the placeholders in brackets with the correct developer name, contact email, and public policy URL.
+
+Developer
+Booth Math is provided by [Developer or Company Name].
+
+Contact: [support email address]
+
+Summary
+Booth Math is designed as a local-first planning calculator.
+
+No account is required.
+Saved shows, estimates, notes, checklist edits, and recap details are stored locally on your device.
+Booth Math does not use a custom backend database for saved shows.
+Booth Math includes Firebase Analytics / Google Analytics for Firebase to understand app usage and improve the app.
+Analytics events should not include event names, exact locations, notes, best sellers, or exact financial values.
+Booth Math does not sell personal information.
+Information Stored on Your Device
+When you use Booth Math, the app may store information locally on your device, including:
+
+Booth estimate inputs, such as booth fees, costs, expected sales, prices, and time estimates.
+Saved show details, such as event name, date, event type, and location.
+Post-show recap details, such as actual sales, actual costs, repeat decision, best sellers, traffic/weather notes, and other notes.
+Checklist progress and custom checklist items.
+App preferences and Pro entitlement state.
+This information is used to provide the app's calculator, saved shows, recaps, checklist, and export features. It remains on your device unless you choose to export or share it.
+
+Analytics
+Booth Math includes Firebase Analytics / Google Analytics for Firebase. Analytics may be used to understand app usage, diagnose product funnels, and improve Booth Math.
+
+Analytics may include information such as:
+
+Screens viewed in the app.
+App interaction events, such as creating an estimate, saving a show, viewing the paywall, completing a purchase, saving a recap, exporting a CSV, or interacting with the checklist.
+Coarse, non-exact app event properties, such as event type, whether Pro is unlocked, whether a saved show exists, a worth-it score, or a broad break-even bucket.
+Firebase or Google Analytics technical identifiers and diagnostic information, such as an app-instance identifier, device/app information, operating system information, app version, and related analytics metadata.
+Booth Math is designed so analytics should not include:
+
+Event names.
+Exact event locations.
+Notes, recap notes, best sellers, or traffic/weather text.
+Exact revenue, profit, cost, booth fee, or other exact financial values.
+Firebase and Google may process analytics information according to their own terms and policies. You can learn more from Firebase's documentation about Google Analytics for Firebase data collection.
+
+Purchases
+Booth Math may offer a one-time in-app purchase called Booth Math Pro.
+
+Purchases are processed by Apple through the App Store. Booth Math does not receive or store your full payment card details. The app may receive purchase status information from Apple so it can unlock Pro features and restore purchases.
+
+Apple's handling of App Store purchase information is governed by Apple's terms and privacy policy.
+
+CSV Export and Sharing
+If you export a CSV or share information from Booth Math, you choose where that exported file goes using Apple's system share sheet. Once you share or save exported information outside Booth Math, that destination app, service, or location may handle the information under its own terms and privacy policy.
+
+No Account and No Backend Sync
+Booth Math does not require you to create an account. Booth Math does not currently provide cloud sync or a custom backend service for your saved shows.
+
+If cloud sync, accounts, support forms, crash reporting, or additional backend services are added in the future, this Privacy Policy should be updated before those features are released.
+
+Data Retention and Deletion
+Information stored locally in Booth Math remains on your device until you delete it in the app, reset relevant app data, or delete the app from your device.
+
+You can delete local app data by deleting saved shows or by deleting Booth Math from your device. Deleting the app may remove locally stored app data from that device.
+
+Analytics data is handled by Firebase / Google Analytics according to their retention controls and policies. If you contact [Developer or Company Name] at [support email address], you may request help with privacy questions. Because Booth Math does not require an account, some analytics data may not be directly identifiable to you by the developer.
+
+Children
+Booth Math is not directed to children under 13. Do not use Booth Math if you are under 13.
+
+Sale of Personal Information
+Booth Math does not sell personal information.
+
+Tracking and Advertising
+Booth Math does not include advertising. Booth Math does not intentionally use analytics data for targeted advertising or to track you across apps and websites owned by other companies.
+
+Before App Store submission, the developer must review Firebase configuration, Google Analytics settings, and Apple's App Privacy Details requirements to confirm the app's privacy labels and tracking disclosures are accurate.
+
+Security
+Booth Math relies on iOS device security and app sandboxing for locally stored app data. No method of storage or transmission can be guaranteed to be completely secure.
+
+Changes to This Policy
+This Privacy Policy may be updated from time to time. The updated version will be posted at [public Privacy Policy URL].
+
+Contact
+If you have questions about this Privacy Policy, contact:
+
+antogs99@gmail.com
